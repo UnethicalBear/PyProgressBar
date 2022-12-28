@@ -1,4 +1,4 @@
-import pyprogresslib.pyprogresslib as pyprogresslib
+import PyProgressLib_ThatOneCoder.pyprogresslib as pyprogresslib
 import time
 results = []
 
